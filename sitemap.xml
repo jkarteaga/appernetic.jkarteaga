@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.jkartea.ga/home/</loc>
+    <loc>http://www.example.com/home/</loc>
     <lastmod>2017-08-09T13:56:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.jkartea.ga/</loc>
+    <loc>http://www.example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/</loc>
     <lastmod>2017-08-09T13:56:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jkartea.ga/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.jkartea.ga/topics/</loc>
     <priority>0</priority>
   </url>
   
